@@ -1,4 +1,4 @@
-# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
+# House Price Prediction Using Python and Machine Learning
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
